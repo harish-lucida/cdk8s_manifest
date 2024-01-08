@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL:https://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@github.com/harish-lucida/cdk8s_manifest.git
+    repoURL:https://github.com/harish-lucida/cdk8s_manifest.git
     targetRevision: HEAD
     path: dev
   destination:
