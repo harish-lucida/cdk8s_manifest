@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: django-app
-        image: hari523/cicd-e2e:27
+        image: hari523/cicd-e2e:29
         ports:
         - containerPort: 8000
